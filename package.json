@@ -1,0 +1,7 @@
+{
+  "name": "protractor-training",
+  "version": "1.0.0",
+  "dependencies": {
+    "protractor": "^5.4.2"
+  }
+}
